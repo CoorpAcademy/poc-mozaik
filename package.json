@@ -1,0 +1,14 @@
+{
+    "name": "mozaik-poc-dashboard",
+    "private": true,
+    "version": "0.0.1",
+    "description": "Mozaïk poc dashboard",
+    "dependencies": {
+        "babel": "^5.8.12",
+        "dotenv": "^0.5.1",
+        "gulp": "^3.9.0",
+        "lodash": "^3.10.0",
+        "mozaik": "*",
+        "react": "^0.13.3"
+    }
+}
